@@ -78,11 +78,11 @@
 
 Ⅱ.分类搜索功能
 
-![2-7](E:\Android\AndroidProject\Project04\image\2-7.png)
+![2-7](./image/2-7.png)
 
 4）删除功能
 
-![2-8](E:\Android\AndroidProject\Project04\image\2-8.png)
+![2-8](./image/2-8.png)
 
 三、新建笔记
 
@@ -106,7 +106,7 @@
 
 5.保存笔记功能实现
 
-![3-5](E:\Android\AndroidProject\Project04\image\3-5.png)
+![3-5](./image/3-5.png)
 
 四、多选删除
 
@@ -118,7 +118,7 @@
 
 1.头部统计删除的菜单部分
 
-![4-2](E:./image/4-2.png)
+![4-2](./image/4-2.png)
 
 2.点击笔记功能实现
 
